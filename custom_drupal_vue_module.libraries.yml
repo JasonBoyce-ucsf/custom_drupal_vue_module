@@ -1,0 +1,5 @@
+custom_drupal_vue_module_block:
+  version: VERSION
+  js:
+    dist/js/app.js: { minified: true }
+    dist/js/chunk-vendors.js: {}
